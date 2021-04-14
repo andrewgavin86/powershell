@@ -1,5 +1,5 @@
 ﻿===========================================================================
- The variables you will want to change are the SMTP Host, From Email and Expireindays.
+ The variables you will want to change are the SMTP Host, The FROM email and $expireindays
  SMTPHOST: The smtp host it will use to send mail in this case we are using Office 365
  FromEmail: Who the script will send the e-mail from (you will need to utilize a office 365 license for this, make sure and set the password to never expire!)
  ExpireInDays: How many days before you want users alerted of passwords expiring
